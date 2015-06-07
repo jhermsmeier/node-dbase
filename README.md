@@ -1,4 +1,4 @@
-# dBASE
+# dBase
 [![npm](http://img.shields.io/npm/v/dbase.svg?style=flat-square)](https://npmjs.com/dbase)
 [![npm](http://img.shields.io/npm/l/dbase.svg?style=flat-square)](https://npmjs.com/dbase)
 [![npm downloads](http://img.shields.io/npm/dm/dbase.svg?style=flat-square)](https://npmjs.com/dbase)
@@ -9,3 +9,7 @@
 ```sh
 $ npm install dbase
 ```
+
+## Test Data
+
+`dbase-ex` and `test-dbf` were stolen from http://www.clicketyclick.dk/databases/xbase/index.shtml.en
