@@ -12,4 +12,5 @@ $ npm install dbase
 
 ## Test Data
 
-`dbase-ex` and `test-dbf` were stolen from http://www.clicketyclick.dk/databases/xbase/index.shtml.en
+- `dbase-ex` and `test-dbf` were stolen from http://www.clicketyclick.dk/databases/xbase/index.shtml.en
+- `rbs-od-bez-1412.dbf` is from Berlin's Open Data portal: http://daten.berlin.de/datensaetze/rbs-bezirke-dezember-2014
