@@ -1,23 +1,33 @@
 {
   "name": "dbase",
   "version": "0.0.0",
-  "description": "",
+  "description": "dBASE",
+  "license": "MIT",
+  "keywords": [
+    "dbase"
+  ],
   "main": "lib/dbase",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "https://jhermsmeier.de/"
   },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-dbase",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhermsmeier/node-dbase.git"
+    "url": "git+https://github.com/jhermsmeier/node-dbase.git"
   },
-  "keywords": [
-    "dbase",
-    "dbf"
-  ],
-  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jhermsmeier/node-dbase/issues"
   },
-  "homepage": "https://github.com/jhermsmeier/node-dbase"
+  "directories": {
+    "test": "test"
+  }
 }
